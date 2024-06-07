@@ -1,8 +1,8 @@
 ---
-name: gurnish_anand
-name_pronunciation: gurnish_anand
+name: neesh_anand
+name_pronunciation: neesh_anand
 fullname: Gurnish Anand
-fullname_pronounciation: Gurnish Anand
+fullname_pronounciation: Neesh Anand
 tagline: 
 social:
   website: 
